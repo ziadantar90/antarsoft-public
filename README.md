@@ -1,58 +1,54 @@
 # Antarsoft
 
-Official public information for **Antarsoft** mobile games.
+Official public information for **Antarsoft** — an independent mobile game studio.
 
-Antarsoft develops casual and idle games for iOS. This repository hosts privacy policies and other documents that must be publicly available for our apps and the App Store.
+This repository hosts privacy policies and other documents that must be publicly available for our apps and app stores. Game source code is not published here.
 
-**Questions?** [Discord](https://discord.gg/zcZTAQq)
+**Contact:** [Discord](https://discord.gg/zcZTAQq)
 
 ---
 
-## Our apps
+## Apps & privacy policies
+
+Each app has its own privacy policy:
 
 | App | Platform | Privacy policy |
 |---|---|---|
-| **Idle Numbers** | iOS | [Privacy Policy](legal/idle-numbers/privacy-policy.md) |
+| Idle Numbers | iOS | [Privacy Policy](legal/idle-numbers/privacy-policy.md) |
 
----
+*More apps will be listed here as they are published.*
 
-## Privacy
-
-We publish a separate privacy policy for each app. Policies explain what data is stored on your device, how ads and purchases work, and how to contact us.
-
-- [Idle Numbers — Privacy Policy](legal/idle-numbers/privacy-policy.md)
-
-If you use **Idle Numbers**, you can also open **Settings → Privacy Policy** inside the game.
+Policies are also linked from each app’s **Settings** where applicable.
 
 ---
 
 ## Support
 
-For help, bug reports, or privacy questions:
+For help, bug reports, or questions about privacy:
 
 - **Discord:** https://discord.gg/zcZTAQq
 
-We typically respond in community support threads on Discord.
+Please use the support channels on Discord so we can respond in one place.
 
 ---
 
-## About your data
+## Your data (general)
 
-Antarsoft games generally save progress **on your device**. We do not run a separate Antarsoft login account for Idle Numbers.
+Antarsoft apps may store progress and settings **on your device**. What is collected, and whether ads, purchases, or online features are used, is described in **that app’s privacy policy** — not every app works the same way.
 
-You can:
+Common options (when the app supports them):
 
-- **Reset progress** in the game’s Settings (local save only).
-- **Delete the app** to remove local data from your device.
-- **Restore purchases** (e.g. Remove Ads) via Settings → Restore Purchases or the App Store.
+- Reset progress in **Settings**
+- Delete the app to remove local data from your device
+- Restore in-app purchases through the app or the App Store
 
-For more detail, see each app’s privacy policy above.
+See the relevant privacy policy above for details.
 
 ---
 
-## Changes to these documents
+## Policy updates
 
-We may update policies when our apps or third-party services (ads, analytics, store features) change. Each policy shows a **Last updated** date at the top.
+We may update these documents when our apps or the services they use change. Each policy includes a **Last updated** date at the top.
 
 ---
 
