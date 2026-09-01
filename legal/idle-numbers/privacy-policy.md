@@ -61,4 +61,9 @@ revised policy.
 
 ## Contact
 
-Questions about privacy: join Discord (link above) and open a support thread.
+If you have questions about this privacy policy or Idle Numbers, contact us at:
+
+**Email:** hello@antarsoft.com  
+**Discord:** [https://discord.gg/zcZTAQq](https://discord.gg/zcZTAQq)
+
+Antarsoft
