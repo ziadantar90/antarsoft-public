@@ -1,124 +1,115 @@
-# Privacy Policy — Gather Build Survive
+# Privacy Policy
 
-**Effective date:** September 1, 2026  
-**App:** Gather Build Survive  
-**Developer:** Antarsoft  
-**Bundle ID:** `com.antarsoft.gatherbuildsurvive`  
-**Platform:** iOS
+**Gather Build Survive**  
+**Antarsoft**  
+**Effective date:** September 1, 2026
 
 ---
 
 ## Overview
 
-Gather Build Survive is a single-player offline game. We collect very little data. This policy explains what the app stores on your device, what leaves your device, and your choices.
+Gather Build Survive is a single-player game that works offline. We collect very little information. This policy explains what the app stores on your device, what may be shared with others, and the choices you have.
 
 ---
 
 ## Information We Collect
 
-### Data stored locally on your device
+### What is stored on your device
 
-The app stores game data **on your device only** using iOS local storage (`UserDefaults` / `PlayerPrefs`). This includes:
+The app saves information locally on your iPhone or iPad. This includes:
 
-- Save game progress (character stats, resources, house upgrades, in-game time)
-- Character name you enter in the game
-- UI preferences (e.g. camera pan mode, language setting)
-- Whether you have unlocked the full game after purchase
+- Your game progress (character stats, resources, house upgrades, and in-game time)
+- The character name you enter
+- Your in-game settings (such as camera controls and language)
+- Whether you have unlocked the full game after a purchase
 
-This data is **not** sent to Antarsoft servers. We do not operate game servers or cloud saves.
+This information stays on your device. We do not run game servers or cloud saves, and we do not receive your save files.
 
-### Data we do not collect
+### What we do not collect
 
-We do **not** collect, and the app does **not** access:
+The app does not collect or access:
 
-- Name, email, or Apple ID (except as handled by Apple for purchases — see below)
-- Location or GPS
-- Camera or photos
-- Microphone or audio recordings
-- Contacts, calendar, or address book
+- Your name, email address, or Apple ID (except where Apple handles purchases — see below)
+- Your location
+- Your camera or photos
+- Your microphone or voice recordings
+- Your contacts, calendar, or address book
 - Health or fitness data
-- Advertising identifiers for tracking
-- Analytics or crash reporting SDK data (none are integrated in the current release)
+- Advertising or tracking data
+- Analytics data
 
 ---
 
 ## In-App Purchases
 
-The app offers a **non-consumable** in-app purchase to unlock the full game after a free demo (Days 1–2).
+You can play a free demo through Day 2. To continue into Day 3 and beyond, you may purchase a one-time unlock for the full game.
 
-- Payments are processed entirely by **Apple** through the App Store.
-- We do **not** receive or store your payment card details.
-- Apple may provide us with purchase confirmation so the app can unlock content on your device.
-- You can restore purchases using the **Restore Purchases** button in the app, as required by Apple.
-
-**Product ID:** `com.antarsoft.gatherbuildsurvive.full_game_unlock`
+- All payments are handled by Apple through the App Store.
+- We do not receive or store your payment card details.
+- Apple may send us confirmation that a purchase was completed so the app can unlock the full game on your device.
+- If you reinstall the app or switch devices, you can use **Restore Purchases** in the app to restore your unlock on the same Apple ID.
 
 ---
 
 ## Third-Party Links
 
-The app may open external links in your browser if you choose to tap them, for example:
-
-- Discord community server
-- Patreon / support page
-
-Those sites have their own privacy policies. We are not responsible for their practices.
+If you choose to tap certain buttons in the app, you may be taken to external websites in your browser, such as our Discord community or a support page. Those websites have their own privacy policies, which we do not control.
 
 ---
 
-## Children’s Privacy
+## Children's Privacy
 
-Gather Build Survive is not directed at children under 13. We do not knowingly collect personal information from children. If you believe a child has provided us with personal information, contact us and we will address it.
+Gather Build Survive is not directed at children under 13. We do not knowingly collect personal information from children. If you believe a child has provided us with personal information, please contact us and we will take appropriate steps.
 
 ---
 
 ## Data Retention and Deletion
 
-- **Save data** remains on your device until you delete it (e.g. via **Reset Game** in the app menu) or uninstall the app.
-- **Purchase unlock status** is stored locally and can be restored via Apple’s restore flow if you reinstall on the same Apple ID.
-- Uninstalling the app removes local save data from your device.
+- Your save data remains on your device until you delete it (for example, through **Reset Game** in the app menu) or until you uninstall the app.
+- Your purchase unlock is stored on your device and can be restored through Apple if you reinstall the app on the same Apple ID.
+- Uninstalling the app removes your local save data from your device.
 
 ---
 
 ## Your Choices
 
 - You can delete your save at any time from the in-game menu.
-- You can decline in-app purchases and continue playing only the free demo portion.
-- You can choose not to open external Discord or Patreon links.
+- You can play the free demo without making a purchase.
+- You can choose not to open external links to Discord or other websites.
 
 ---
 
 ## Security
 
-Game data is stored locally on your device. We do not transmit save files to our servers. Standard iOS and App Store security applies to in-app purchases.
+Your game data is stored locally on your device. We do not upload your save files to our servers. In-app purchases are protected by Apple’s standard App Store security.
 
 ---
 
 ## Changes to This Policy
 
-We may update this policy from time to time. The **Effective date** at the top will change when we do. Continued use of the app after changes means you accept the updated policy.
+We may update this privacy policy from time to time. When we do, we will change the effective date at the top of this page. Your continued use of the app after an update means you accept the revised policy.
 
 ---
 
-## Contact
+## Contact Us
 
-If you have questions about this privacy policy or the app:
+If you have questions about this privacy policy or Gather Build Survive, contact us at:
 
-**Email:** support@antarsoft.com *(update this before publishing)*
+**hello@antarsoft.com**
 
-**Developer:** Antarsoft
+Antarsoft
 
 ---
 
-## Summary
+## At a Glance
 
-| Topic | Practice |
-|-------|----------|
+| Topic | Our practice |
+|-------|----------------|
 | Account required | No |
 | Cloud save | No |
 | Analytics | None |
 | Ads | None |
-| Location / camera / mic | Not used |
+| Location, camera, or microphone | Not used |
 | Data sold to third parties | No |
-| In-app purchases | Yes — full game unlock via Apple |
-| Data stored on device | Save game, preferences, unlock status |
+| In-app purchases | Yes — one-time full game unlock |
+| Data stored on your device | Save game, settings, and unlock status |
