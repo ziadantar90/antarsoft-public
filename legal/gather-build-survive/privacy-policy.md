@@ -6,8 +6,6 @@
 **Bundle ID:** `com.antarsoft.gatherbuildsurvive`  
 **Platform:** iOS
 
-> **Note for App Store Connect:** Apple requires a **public URL** for this policy (not a local file). Host this document on your website, GitHub Pages, or similar, then paste that URL into App Store Connect. Update the contact email below before publishing.
-
 ---
 
 ## Overview
