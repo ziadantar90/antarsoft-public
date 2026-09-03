@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**2D1L**  
+**Two Dots One Line**  
 **Antarsoft**  
 **Effective date:** September 3, 2026
 
@@ -8,7 +8,7 @@
 
 ## Overview
 
-2D1L is a single-player arcade game. Most of the game works offline, but two optional features — Game Center leaderboards and rewarded video ads — require an internet connection and involve Apple and our advertising partner. This policy explains what the app stores on your device, what may be shared with others, and the choices you have.
+Two Dots One Line is a single-player arcade game. Most of the game works offline, but two optional features — Game Center leaderboards and rewarded video ads — require an internet connection and involve Apple and our advertising partner. This policy explains what the app stores on your device, what may be shared with others, and the choices you have.
 
 ---
 
@@ -41,7 +41,7 @@ We do not use any analytics SDK of our own. Our advertising partner may collect 
 
 ## Game Center
 
-2D1L uses Apple's **Game Center** to offer optional leaderboards for each difficulty.
+Two Dots One Line uses Apple's **Game Center** to offer optional leaderboards for each difficulty.
 
 - If you choose to sign in to Game Center, Apple provides the app with your Game Center player identity (such as your nickname) so your scores can be displayed on the leaderboards.
 - Leaderboard scores you submit (your high score and Game Center identity) may be visible to other players who view that leaderboard.
@@ -52,19 +52,19 @@ We do not use any analytics SDK of our own. Our advertising partner may collect 
 
 ## Advertising
 
-2D1L offers optional rewarded video ads (for example, to continue after a game over) using **Unity LevelPlay** (ironSource) ad mediation.
+Two Dots One Line offers optional rewarded video ads (for example, to continue after a game over) using **Unity LevelPlay** (ironSource) ad mediation.
 
 - Ads are only shown when you choose to watch one in exchange for an in-game reward.
 - To deliver, measure, and mediate ads, Unity LevelPlay and the ad networks it works with may collect device information (such as device identifiers, advertising identifiers, IP address, and general app usage) in accordance with their own privacy policies.
 - On iOS, if any ad partner wants to track you across apps and websites, Apple's App Tracking Transparency framework requires them to ask for your permission first. You can allow or deny this at any time in **Settings → Privacy & Security → Tracking** on your device.
 - You can see Unity's advertising and privacy practices at [Unity's Privacy Policy](https://unity.com/legal/privacy-policy).
-- Currently, 2D1L's advertising is enabled on iOS only.
+- Currently, Two Dots One Line's advertising is enabled on iOS only.
 
 ---
 
 ## In-App Purchases
 
-2D1L does not currently offer any in-app purchases. If this changes in the future, this policy will be updated before any purchase feature is released.
+Two Dots One Line does not currently offer any in-app purchases. If this changes in the future, this policy will be updated before any purchase feature is released.
 
 ---
 
@@ -76,7 +76,7 @@ If you choose to tap certain buttons in the app, you may be taken to external we
 
 ## Children's Privacy
 
-2D1L is not directed at children under 13. We do not knowingly collect personal information from children. If you believe a child has provided us with personal information, please contact us and we will take appropriate steps.
+Two Dots One Line is not directed at children under 13. We do not knowingly collect personal information from children. If you believe a child has provided us with personal information, please contact us and we will take appropriate steps.
 
 ---
 
@@ -112,7 +112,7 @@ We may update this privacy policy from time to time. When we do, we will change 
 
 ## Contact Us
 
-If you have questions about this privacy policy or 2D1L, contact us at:
+If you have questions about this privacy policy or Two Dots One Line, contact us at:
 
 **hello@antarsoft.com**
 
