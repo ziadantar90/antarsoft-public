@@ -18,9 +18,7 @@ Each app has its own privacy policy:
 | Gather Build Survive | iOS | [Privacy Policy](legal/gather-build-survive/privacy-policy.md) |
 | 2D1L | iOS | [Privacy Policy](legal/2d1l/privacy-policy.md) |
 
-*More apps will be listed here as they are published.*
-
-Policies are also linked from each app’s **Settings** where applicable.
+Policies are also linked from within each app.
 
 ---
 
