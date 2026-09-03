@@ -16,6 +16,7 @@ Each app has its own privacy policy:
 |---|---|---|
 | Idle Numbers | iOS | [Privacy Policy](legal/idle-numbers/privacy-policy.md) |
 | Gather Build Survive | iOS | [Privacy Policy](legal/gather-build-survive/privacy-policy.md) |
+| 2D1L | iOS | [Privacy Policy](legal/2d1l/privacy-policy.md) |
 
 *More apps will be listed here as they are published.*
 
