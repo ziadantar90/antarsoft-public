@@ -1,6 +1,6 @@
 # Antarsoft
 
-Official public information for **Antarsoft** — an independent mobile game studio.
+Official public information for **Antarsoft**
 
 This repository hosts privacy policies and other documents that must be publicly available for our apps and app stores. Game source code is not published here.
 
