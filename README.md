@@ -32,19 +32,6 @@ Please use the support channels on Discord so we can respond in one place.
 
 ---
 
-## Your data (general)
-
-Antarsoft apps may store progress and settings **on your device**. What is collected, and whether ads, purchases, or online features are used, is described in **that app’s privacy policy** — not every app works the same way.
-
-Common options (when the app supports them):
-
-- Reset progress in **Settings**
-- Delete the app to remove local data from your device
-- Restore in-app purchases through the app or the App Store
-
-See the relevant privacy policy above for details.
-
----
 
 ## Policy updates
 
