@@ -2,7 +2,7 @@
 
 **Gather Build Survive**  
 **Antarsoft**  
-**Effective date:** September 1, 2026
+**Effective date:** September 5, 2026
 
 ---
 
@@ -20,7 +20,7 @@ The app saves information locally on your iPhone or iPad. This includes:
 
 - Your game progress (character stats, resources, house upgrades, and in-game time)
 - The character name you enter
-- Your in-game settings (such as camera controls and language)
+- Your in-game settings (such as chosen difficulty and language)
 - Whether you have unlocked the full game after a purchase
 
 This information stays on your device. We do not run game servers or cloud saves, and we do not receive your save files.
@@ -53,7 +53,13 @@ You can play a free demo through Day 2. To continue into Day 3 and beyond, you m
 
 ## Third-Party Links
 
-If you choose to tap certain buttons in the app, you may be taken to external websites in your browser, such as our Discord community or a support page. Those websites have their own privacy policies, which we do not control.
+If you choose to tap certain buttons in the app, you may be taken to external websites in your browser. These may include:
+
+- **Discord community:** [https://discord.gg/zcZTAQq](https://discord.gg/zcZTAQq)
+- Support or community pages (such as Patreon)
+- This privacy policy itself, opened from the **Privacy Policy** button in the app's menu
+
+Those websites and services have their own privacy policies, which we do not control. Discord's privacy policy applies when you visit or use our Discord server.
 
 ---
 
@@ -81,7 +87,7 @@ Gather Build Survive is not directed at children under 13. We do not knowingly c
 
 ## Security
 
-Your game data is stored locally on your device. We do not upload your save files to our servers. In-app purchases are protected by Apple’s standard App Store security.
+Your game data is stored locally on your device. We do not upload your save files to our servers. In-app purchases are protected by Apple's standard App Store security.
 
 ---
 
@@ -95,7 +101,8 @@ We may update this privacy policy from time to time. When we do, we will change 
 
 If you have questions about this privacy policy or Gather Build Survive, contact us at:
 
-**hello@antarsoft.com**
+**Email:** hello@antarsoft.com  
+**Discord:** [https://discord.gg/zcZTAQq](https://discord.gg/zcZTAQq)
 
 Antarsoft
 
