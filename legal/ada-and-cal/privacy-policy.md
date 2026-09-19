@@ -37,7 +37,7 @@ The app does not collect or access:
 - Your contacts, calendar, or address book
 - Health or fitness data
 - Advertising or tracking data for third-party ad networks
-- Analytics or marketing profiles (legacy analytics hooks in the project are disabled)
+- Analytics or marketing profiles
 
 ---
 
