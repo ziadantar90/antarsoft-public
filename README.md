@@ -18,6 +18,7 @@ Each app has its own privacy policy:
 | Gather Build Survive | iOS | [Privacy Policy](legal/gather-build-survive/privacy-policy.md) |
 | Ada and Cal | iOS | [Privacy Policy](legal/ada-and-cal/privacy-policy.md) |
 | Two Dots One Line | iOS | [Privacy Policy](legal/2d1l/privacy-policy.md) |
+| Badna | iOS, Android | [Privacy Policy](legal/badna/privacy-policy.md), [Terms of Service](legal/badna/terms-of-service.md), [Subscription Terms](legal/badna/subscription-terms.md) |
 
 Policies are also linked from within each app.
 
